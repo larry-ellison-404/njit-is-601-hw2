@@ -25,4 +25,4 @@ The intended audience includes teenagers and adults.
 
 Please navigate through this mock up using the embedded links within the markdown files.
 
-Navigate to the [Homepage](/home.md) to get started.
+Navigate to the [Homepage](home.md) to get started.
