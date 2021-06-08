@@ -1,13 +1,11 @@
-# Home Page
-(Website General Info)
+# Website General Info
+
+## Website Title
+An Exploration of Cyberspace
 
 
-## An Exploration of Cyberspace
-(Website Title)
-
-
-### Embark on a journey through the history of the internet: from the 1950's, to the 2020's, and beyond.
-(Hero Text)
+### Hero Text
+Embark on a journey through the history of the internet: from the 1950's, to the 2020's, and beyond.
 
 
 #### Description
@@ -20,7 +18,15 @@ and the impacts the digital world has had on our civilization.
 
 
 ### Main Menu
-TODO
+
+* [The 1950's](/pages/page-50s.md)
+* [The 1960's](/pages/page-60s.md)
+* [The 1970's](/pages/page-70s.md)
+* [The 1980's](/pages/page-80s.md)
+* [The 1990's](/pages/page-90s.md)
+* [The 2000's](/pages/page-00s.md)
+* [The 2010's](/pages/page-10s.md)
+* [The 2020's](/pages/page-20s.md)
 
 
 
